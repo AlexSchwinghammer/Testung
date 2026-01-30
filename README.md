@@ -1,3 +1,7 @@
+---
+type: Journal
+---
+
 # Testung
 
 # testung ** 123 ** 
